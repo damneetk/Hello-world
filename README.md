@@ -1,2 +1,2 @@
 # Hello-world
-Something new 
+Entering the world of Javascript!
